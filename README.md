@@ -1,3 +1,48 @@
+                                                ## English
+
+# Antinomia
+
+Personal Nintendo DS programming project inspired by the Demoscene intros of the 1990s.
+
+The source code is commented in order to document the effects and to provide a realistic example of programming on this architecture with a modern version of the libnds library.
+
+# Compilation instructions
+
+To compile the program, first install the devkitPro toolchain by following the instructions, making sure you have installed the libnds library correctly.
+
+Then, run the `make` command by opening a terminal prompt in the folder where this file is located.
+
+If the makefile has not been modified and devkitpro has been correctly installed, two files will be generated, `Antinomia.elf` and `Antinomia.nds`.
+
+Installer for devkitPro: --> https://devkitpro.org/wiki/Getting_Started
+
+# Nintendo DS Programming Resources
+
+It was possible to create this project only because of the existence of the tools and guides mentioned in this section.
+
+I did not create any of them, nor am I in any way responsible for and/or directly endorsed by them.
+
+All rights are reserved by their respective authors, including copyright.
+
+The main library used in the code is libnds, available at this github page: --> https://github.com/devkitPro/libnds
+
+Libnds is part of the devkitPro toolchain, available at this github page: --> https://github.com/devkitPro/  
+
+These tools are practically required to start programming applications for the Nintendo DS.
+
+To convert images into a usable format, grit is used, or its GUI counterpart, wingrit: --> https://www.coranac.com/projects/#grit
+
+Technical specs for the Nintendo DS architecture are provided on this excellent website, gbatek: --> https://problemkaputt.de/gbatek.htm
+
+This site makes it possible to compute the available space, the modes that must be used, and any VRAM conflicts that may occur: --> https://mtheall.com/banks.html
+
+Jaeden Amero's guide on programming Nintendo DS homebrew software with the libnds library is an essential resource: --> https://www.patater.com/files/projects/manual/manual.html
+# Licence
+
+Please refer to the file `COPYRIGHTS.md`.
+
+                                                ## Italiano
+
 # Antinomia
 
 Progetto personale di programmazione Nintendo DS che si ispira alle intro Demoscene degli anni 90.
