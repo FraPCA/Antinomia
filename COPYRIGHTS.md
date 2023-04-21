@@ -1,10 +1,12 @@
 # Copyright Disclaimer
 
-La licenza di questo progetto è descritta nel file LICENSE.md , tuttavia sono presenti all'interno di questa repository software e/o spezzoni di codice sorgente coperto da altre licenze.
+Questo progetto è sotto licenza GNU General Public License v3.0, ad eccezione del software presente all'interno di questa repository coperto da altre licenze, per i quali si applicano invece le loro rispettive licenze ed i diritti dei loro autori.
 
-Tutti i diritti sono riservati ai rispettivi autori.
+Si applicano tutti i diritti dei rispettivi autori anche ai riferimenti presenti nel codice a software non presente nella repository.
 
 # libnds
+
+Il file sprite.h appartiene interamente alla libreria libnds.
 
 Presente all'indirizzo https://github.com/devkitPro/libnds/blob/master/libnds_license.txt
 
