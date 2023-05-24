@@ -1,3 +1,8 @@
+                                                
+https://github.com/FraPCA/Antinomia/assets/106353047/58d229de-5db8-4ae1-adca-45afbf4f2abd
+
+
+                                                
                                                 ## English
 
 # Antinomia
@@ -37,6 +42,9 @@ Technical specs for the Nintendo DS architecture are provided on this excellent 
 This site makes it possible to compute the available space, the modes that must be used, and any VRAM conflicts that may occur: --> https://mtheall.com/banks.html
 
 Jaeden Amero's guide on programming Nintendo DS homebrew software with the libnds library is an essential resource: --> https://www.patater.com/files/projects/manual/manual.html
+
+NO$GBA is the emulator I used to to play, record and debug the intro, the fact that it has support for logging messages in the source code was very useful: --> https://problemkaputt.de/gba.htm
+
 # Licence
 
 Please refer to the file `COPYRIGHTS.md`.
@@ -80,6 +88,9 @@ Una scheda tecnica dell'architettura Nintendo DS è presente nell'eccellente ris
 Questo sito permette di calcolare lo spazio disponibile, le modalità da utilizzare ed eventuali conflitti di memoria video che potrebbero capitare: --> https://mtheall.com/banks.html
 
 La guida realizzata da Jaeden Amero sulla programmazione di software homebrew Nintendo DS con la libreria libnds è una risorsa fondamentale: --> https://www.patater.com/files/projects/manual/manual.html
+
+Ho utilizzato l'emulatore NO$GBA per eseguire, fare debug e registrare l'intro, ed il supporto da esso offerto per messaggi di logging dal codice sorgente è stato molto utile: --> https://problemkaputt.de/gba.htm
+
 
 # Licenza
 
