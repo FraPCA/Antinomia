@@ -9,9 +9,9 @@
 #include <cctype>
 #include <string>
 #include <vector>
-//#include <maxmod9.h>
-//#include <soundbank.h>
-//#include <soundbank_bin.h>
+#include <maxmod9.h>
+#include <soundbank.h>
+#include <soundbank_bin.h>
 
 /*Raccolta documentazione MaxMod:
 
@@ -562,9 +562,9 @@ int main()
 	powerOn(POWER_ALL_2D); // Accende il motore grafico 2D.	
 	lcdMainOnBottom(); // Piazza lo schermo main nello schermo fisico inferiore.
 	initVideo();
-	/*mmInitDefaultMem((mm_addr)soundbank_bin); //Inizializza maxmod, gli diciamo di usare soundbank_bin da cui prendere audio.
-	mmLoad(MOD_TEST);	//Carica il file .mod, il quale contiene la musica.
-	mmStart(MOD_TEST, MM_PLAY_LOOP );	//Fa partire la musica in loop.*/
+	mmInitDefaultMem((mm_addr)soundbank_bin); //Inizializza maxmod, gli diciamo di usare soundbank_bin da cui prendere audio.
+	mmLoad(MOD_DRUMTEST);	//Carica il file .mod, il quale contiene la musica.
+	mmStart(MOD_DRUMTEST, MM_PLAY_LOOP );	//Fa partire la musica in loop.*/
 
 	//Inizializza il motore per sprite su schermi main e sub, indichiamo offset in memoria degli sprite e che non vogliamo memoria estesa.
 

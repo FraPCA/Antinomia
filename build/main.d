@@ -65,7 +65,11 @@ main.o: \
  C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/Sfondosub1.h \
  C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/ufo.h \
  C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/BG1.h \
- C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/BG2.h
+ C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/BG2.h \
+ C\:/devkitPro/libnds/include/maxmod9.h \
+ C\:/devkitPro/libnds/include/mm_types.h \
+ C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/soundbank.h \
+ C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/soundbank_bin.h
 C\:/devkitPro/libnds/include/nds.h:
 C\:/devkitPro/libnds/include/nds/libversion.h:
 C\:/devkitPro/libnds/include/nds/ndstypes.h:
@@ -132,3 +136,7 @@ C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/Sf
 C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/ufo.h:
 C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/BG1.h:
 C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/BG2.h:
+C\:/devkitPro/libnds/include/maxmod9.h:
+C\:/devkitPro/libnds/include/mm_types.h:
+C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/soundbank.h:
+C\:/Users/Utente/Desktop/Francesco/Risorse/Programmazione/NDS/Antinomia/build/soundbank_bin.h:
