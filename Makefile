@@ -22,6 +22,10 @@ DATA		:=	data
 INCLUDES	:=	include
 SPRITES		:=  sprites
 MUSIC       :=  music
+GAME_ICON	:=  ../Icon.bmp
+GAME_TITLE  :=  Antinomia
+GAME_SUBTITLE1 := github.com/FraPCA/Antinomia
+GAME_SUBTITLE2 :=
 
 #---------------------------------------------------------------------------------
 # options for code generation
